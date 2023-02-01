@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @decent-uday
-- 👀 I’m interested in Coding and Software Development
-- 🌱 I’m currently learning PYTHON 
+- 👀 I’m interested in Coding and Software Development and my primary Language is PYTHON
+- 🌱 I’m currently learning WEB DEVELOPMENT 
 - 💞️ I’m looking to collaborate on Product based Company requirements to get the job.
 - 📫 How to reach me udaykiran425@sasi.ac.in
 
